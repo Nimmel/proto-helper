@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nimmel.protohelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nimmel.protohelper.MyBundle
 
 class MyApplicationService {
 
